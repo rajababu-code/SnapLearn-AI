@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520">
+<rect width="1200" height="520" fill="white"/>
+<text x="600" y="45" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold">SnapLearn AI — On-Device Architecture</text>
+<g font-family="Arial" font-size="18" text-anchor="middle">
+<rect x="50" y="130" width="180" height="80" rx="14" fill="#e9f4ff" stroke="#333"/><text x="140" y="175">Student Notes</text>
+<rect x="270" y="130" width="180" height="80" rx="14" fill="#eef8ee" stroke="#333"/><text x="360" y="165">Local Parsing</text><text x="360" y="192">&amp; Chunking</text>
+<rect x="490" y="130" width="220" height="80" rx="14" fill="#fff4df" stroke="#333"/><text x="600" y="165">AI Hub Embedding</text><text x="600" y="192">(planned NPU)</text>
+<rect x="750" y="130" width="180" height="80" rx="14" fill="#f4eaff" stroke="#333"/><text x="840" y="165">Local Vector</text><text x="840" y="192">Index</text>
+<rect x="970" y="130" width="180" height="80" rx="14" fill="#ffeaea" stroke="#333"/><text x="1060" y="165">Grounded</text><text x="1060" y="192">Answer</text>
+<line x1="230" y1="170" x2="270" y2="170" stroke="#333" stroke-width="3"/><line x1="450" y1="170" x2="490" y2="170" stroke="#333" stroke-width="3"/><line x1="710" y1="170" x2="750" y2="170" stroke="#333" stroke-width="3"/><line x1="930" y1="170" x2="970" y2="170" stroke="#333" stroke-width="3"/>
+<rect x="360" y="310" width="480" height="100" rx="18" fill="#f7f7f7" stroke="#333" stroke-width="2"/>
+<text x="600" y="350">Snapdragon HP PC</text><text x="600" y="380">Qualcomm AI Hub + QNN / Hexagon NPU</text>
+<line x1="600" y1="210" x2="600" y2="310" stroke="#333" stroke-width="3"/>
+</g></svg>
